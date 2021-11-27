@@ -1,7 +1,7 @@
 ### Olá! Sou João Pedro Cardoso Campos 👋
 
 - 🔭 Desempregado
-- 🌱 Estudante de Python e Java
+- 🌱 Estudante de Python e C#
 
 <a href="https://github.com/osodrack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osodrack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
